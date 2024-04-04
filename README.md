@@ -1,3 +1,4 @@
+![logo](https://as2.ftcdn.net/v2/jpg/03/65/94/79/1000_F_365947947_nBv9Yct5WRbpGrW4mb2UcsuJhVEPIDtw.jpg)
 <h1 align="center">Hi 👋, I'm Vijai Vikram</h1>
 <h3 align="center">Aspiring data scientist with strong analytical skills and a passion for leveraging data to drive insights and solutions</h3>
 
