@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Vijai Vikram</h1>
 <h3 align="center">AI Engineer who works with LLM's with strong analytical skills and a passion for leveraging data to drive insights and solutions</h3>
 
-<img align='right' alt='coding' width='400' src='https://giphy.com/embed/qgQUggAC3Pfv687qPC'>
+<img align='right' alt='coding' width='400' src='https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaivikram&label=Profile%20views&color=0e75b6&style=flat" alt="vijaivikram" /> </p>
 
 - 🔭 I’m currently working on **Flight Fare Prediction using Machine Learning**
