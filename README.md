@@ -2,8 +2,7 @@
 <h1 align="center">Hi, I'm Vijai Vikram</h1>
 <h3 align="center">AI Engineer who works with LLM's with strong analytical skills and a passion for leveraging data to drive insights and solutions</h3>
 
-<img align='right' alt='coding' width='400' src='https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC'>
-<!-- <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p> -->
+<img align='right' alt='coding' width='400' src='https://giphy.com/embed/qgQUggAC3Pfv687qPC'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaivikram&label=Profile%20views&color=0e75b6&style=flat" alt="vijaivikram" /> </p>
 
 - 🔭 I’m currently working on **Flight Fare Prediction using Machine Learning**
